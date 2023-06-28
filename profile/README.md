@@ -13,4 +13,4 @@
 
 - [docker](https://github.com/InkMarkNest)，一个docker compose文件，可以快速部署墨迹小窝系统。
 
-文档已经准备就绪。[点击查看]([https://github.com/InkMarkNest/docs]([https://github.com/InkMarkNest/docs](https://github.com/InkMarkNest/docs)https://github.com/InkMarkNest/docs))。
+文档已经准备就绪。[点击查看](https://inkmarknest.github.io/ink-nest-admin-docs/)。
